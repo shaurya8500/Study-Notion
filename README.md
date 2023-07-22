@@ -1,31 +1,26 @@
-# React & Tailwind CSS Starter Pack
+Study Notion - An Ed Tech Platform
+Study Notion
 
-This is a starter pack for creating React projects with Tailwind CSS configured. It uses React version **18.2** and Tailwind CSS version **3.2**.
+Study Notion is an Ed Tech platform built using React, Express.js, and MongoDB. It aims to provide an interactive and user-friendly learning experience for students and educators alike.
 
-## Usage
 
-This starter pack includes a basic setup for using **Tailwind CSS with React**. To start building your own components and styles, follow these steps:
+Features
+Interactive Courses: Engaging and interactive courses covering various subjects.
+User Profiles: Personalized user profiles for tracking progress and achievements.
+Quizzes and Assessments: Interactive quizzes and assessments for self-evaluation.
+Discussion Forums: Collaborative discussion forums for students and educators.
+Real-time Progress Tracking: Monitor your progress in real-time.
+Responsive Design: Accessible on all devices, including desktop, tablet, and mobile.
 
-1. Clone the repository to your local machine.
-    ```sh
-    git clone https://github.com/thepranaygupta/react-tailwind-css-starter-pack.git
-    ```
 
-1. Install the required packages.
-    ```sh
-    cd react-tailwind-css-starter-pack
-    npm install
-    ```
 
-1. Start the development server.
-    ```sh
-    npm start
-    ```
-1. Open the project in your browser at [`http://localhost:3000`](http://localhost:3000) to view your project.
-1. Create your React components and add your styles using Tailwind classes. You can also create new CSS files and import them into your components.
 
-The project is set up to use `postcss-cli` to process your CSS files. You can add your own `tailwind.config.js` file to customize your Tailwind setup.
+Project Link
+Explore Study Notion: https://studynotion-edtech-project.vercel.app/
 
-## Contributing
 
-Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
+
+Tech Stack
+Frontend: React
+Backend: Express.js
+Database: MongoDB
